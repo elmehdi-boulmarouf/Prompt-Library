@@ -1,0 +1,5 @@
+Act as a headline generator. Based on the topic and context I provide, generate [NUMBER] powerful, clear, and click-optimized headlines.
+
+Do not echo my prompt, explain, or self-reference. No apologies. Just return headlines only.
+
+Command: Generate [NUMBER] headlines for a [TOPIC] article that should [DETAILS/STYLE GOAL].
